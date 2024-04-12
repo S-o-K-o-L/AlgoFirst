@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirstHomework/A/A.iml" filepath="$PROJECT_DIR$/FirstHomework/A/A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstHomework/A Conditioner/A Conditioner.iml" filepath="$PROJECT_DIR$/FirstHomework/A Conditioner/A Conditioner.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlgoFirst.iml" filepath="$PROJECT_DIR$/AlgoFirst.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FirstHomework/B/B.iml" filepath="$PROJECT_DIR$/FirstHomework/B/B.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FirstHomework/C/C.iml" filepath="$PROJECT_DIR$/FirstHomework/C/C.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FirstHomework/D/D.iml" filepath="$PROJECT_DIR$/FirstHomework/D/D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstHomework/B Triangle/B Triangle.iml" filepath="$PROJECT_DIR$/FirstHomework/B Triangle/B Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstHomework/C PhoneNumbers/C PhoneNumbers.iml" filepath="$PROJECT_DIR$/FirstHomework/C PhoneNumbers/C PhoneNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstHomework/D EqualWithSqrt/D EqualWithSqrt.iml" filepath="$PROJECT_DIR$/FirstHomework/D EqualWithSqrt/D EqualWithSqrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstHomework/E Emergency/E Emergency.iml" filepath="$PROJECT_DIR$/FirstHomework/E Emergency/E Emergency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstHomework/F PlacementLaptop/F PlacementLaptop.iml" filepath="$PROJECT_DIR$/FirstHomework/F PlacementLaptop/F PlacementLaptop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstHomework/G Details/G Details.iml" filepath="$PROJECT_DIR$/FirstHomework/G Details/G Details.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstHomework/H Metro/H Metro.iml" filepath="$PROJECT_DIR$/FirstHomework/H Metro/H Metro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstHomework/I PrisonerOfCastleIf/I PrisonerOfCastleIf.iml" filepath="$PROJECT_DIR$/FirstHomework/I PrisonerOfCastleIf/I PrisonerOfCastleIf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstHomework/J LinearEquations/J LinearEquations.iml" filepath="$PROJECT_DIR$/FirstHomework/J LinearEquations/J LinearEquations.iml" />
     </modules>
   </component>
 </project>
